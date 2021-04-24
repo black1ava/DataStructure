@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQKkJGRzMIFDBmYoh/pdm3iqcKNj7hTF+WG7WjsISuLfjefXig6DzxFtO/EdZEDw89DIjSVZL6NNEEmrZaGWyQ==",
+  "success": true,
+  "projectFilePath": "/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/QueueCS.csproj",
+  "expectedPackageFiles": [
+    "/home/e11/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

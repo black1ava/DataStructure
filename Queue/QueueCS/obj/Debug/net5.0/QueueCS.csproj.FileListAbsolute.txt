@@ -1,0 +1,16 @@
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS.deps.json
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS.runtimeconfig.json
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS.runtimeconfig.dev.json
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/ref/QueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/bin/Debug/net5.0/QueueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.csprojAssemblyReference.cache
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.AssemblyInfoInputs.cache
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.AssemblyInfo.cs
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.csproj.CoreCompileInputs.cache
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/ref/QueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/Queue/QueueCS/obj/Debug/net5.0/QueueCS.genruntimeconfig.cache
