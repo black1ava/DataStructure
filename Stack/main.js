@@ -34,9 +34,9 @@ class Stack{
   
   printStack(){
     console.log("Stack ");
-    this.items.forEach(item => {
-      console.log(item);
-    });
+    for(let i = 0; i < this.top + 1; i++){
+      console.log(`${this.items[i]}`);
+    }
   }
 }
 
