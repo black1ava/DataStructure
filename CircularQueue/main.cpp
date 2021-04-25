@@ -46,9 +46,10 @@ class CircularQueue{
         cout << "Removed " << items[front] << " from the queue" << endl;
         if(front == rear){
           front = rear = -1;
+        }else{
+          front = (front + 1) % SIZE;
         }
 
-        front = (front + 1) % SIZE;
       }
     }
 

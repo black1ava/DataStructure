@@ -45,9 +45,10 @@ void deQueue(ccq *cq){
     printf("Removed %d from the queue\n", cq ->  items[cq -> front]);
     if(cq -> front == cq -> rear){
       cq -> front = cq -> rear = -1;
+    }else{
+      cq -> front = (cq -> front + 1) % SIZE;
     }
 
-    cq -> front = (cq -> front + 1) % SIZE;
   }
 }
 
