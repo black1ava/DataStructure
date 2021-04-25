@@ -1,0 +1,16 @@
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS.deps.json
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS.runtimeconfig.json
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS.runtimeconfig.dev.json
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/ref/CircularQueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/bin/Debug/net5.0/CircularQueueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.csprojAssemblyReference.cache
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.AssemblyInfoInputs.cache
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.AssemblyInfo.cs
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.csproj.CoreCompileInputs.cache
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/ref/CircularQueueCS.dll
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/CircularQueue/CircularQueueCS/obj/Debug/net5.0/CircularQueueCS.genruntimeconfig.cache
