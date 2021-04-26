@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFuP6W/VXgYRrZf7U9VzGhyl6CbSfvoqdHAe07lxN2rGTalSX6LgIwQQcw6i7HAfX3Ij4yxwn3rIP+p/sSDymg==",
+  "success": true,
+  "projectFilePath": "/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/DequeueCS.csproj",
+  "expectedPackageFiles": [
+    "/home/e11/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

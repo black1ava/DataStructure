@@ -1,0 +1,16 @@
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS.deps.json
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS.runtimeconfig.json
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS.runtimeconfig.dev.json
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/ref/DequeueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/bin/Debug/net5.0/DequeueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.csprojAssemblyReference.cache
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.AssemblyInfoInputs.cache
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.AssemblyInfo.cs
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.csproj.CoreCompileInputs.cache
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/ref/DequeueCS.dll
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.pdb
+/home/e11/Desktop/myApp/DataStructure/Dequeue/DequeueCS/obj/Debug/net5.0/DequeueCS.genruntimeconfig.cache
