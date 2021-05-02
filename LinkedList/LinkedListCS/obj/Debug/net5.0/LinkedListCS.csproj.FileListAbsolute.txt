@@ -1,0 +1,16 @@
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.csprojAssemblyReference.cache
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.AssemblyInfoInputs.cache
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.AssemblyInfo.cs
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.csproj.CoreCompileInputs.cache
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS.deps.json
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS.runtimeconfig.json
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS.runtimeconfig.dev.json
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS.dll
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/ref/LinkedListCS.dll
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/bin/Debug/net5.0/LinkedListCS.pdb
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.dll
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/ref/LinkedListCS.dll
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.pdb
+/home/e11/Desktop/myApp/DataStructure/LinkedList/LinkedListCS/obj/Debug/net5.0/LinkedListCS.genruntimeconfig.cache
